@@ -311,17 +311,4 @@ HTML
 
 </body>
 </html>
-Key Features Included:
-Header Section: Date and Shift selection.   
 
-Top Metrics Table: Sections 2 through 6 (Manpower, Assembly, Testing, P.Off, FQC) with automatic Gap calculation (Plan - Actual).   
-
-Assembly Line Details Table: Line 1, Line 2, and Line 3 data entry columns with automatic total column calculation and Grand Total calculation.   
-
-Export Capabilities:
-
-Print Record: Uses CSS print styles to hide buttons and prepare the sheet for printing or saving as PDF.
-
-Export to Excel (CSV): Downloads a clean .csv report labeled with the selected Date and Shift.
-
-Skip to the latest Gemini result
